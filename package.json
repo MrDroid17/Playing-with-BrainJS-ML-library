@@ -1,0 +1,11 @@
+{
+  "name": "playing-with-brainjs",
+  "version": "1.0.0",
+  "description": "playing around brain JS feature which is a JavaScript library for ML and Neural Network. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sobhit Kumar",
+  "license": "ISC"
+}
